@@ -160,11 +160,11 @@
       var _h = _vm.$createElement;
       var _c = _vm._self._c || _h;
       return _c("div", { staticClass: "container" }, [
-        _c("p", [_vm._v("测试远程组件")]),
+        _c("p", [_vm._v("测试远程组件11111111111")]),
         _vm._v(" "),
-        _c("p", [_vm._v("测试远程组件")]),
+        _c("p", [_vm._v("测试远程组件11111111111")]),
         _vm._v(" "),
-        _c("p", [_vm._v("测试远程组件")]),
+        _c("p", [_vm._v("测试远程组件11111111111")]),
       ])
     },
   ];
@@ -173,7 +173,7 @@
     /* style */
     const __vue_inject_styles__ = function (inject) {
       if (!inject) return
-      inject("data-v-064f7ab3_0", { source: "\n.container {\n  color: #f30;\n}\n", map: {"version":3,"sources":["C:\\Users\\zhuoyan\\Desktop\\mymymy\\remote-component\\rollup\\commponents\\test.vue"],"names":[],"mappings":";AAeA;EACA,WAAA;AACA","file":"test.vue","sourcesContent":["<template>\n  <div class=\"container\">\n    <p>测试远程组件</p>\n    <p>测试远程组件</p>\n    <p>测试远程组件</p>\n  </div>\n</template>\n\n<script>\nexport default {\n  name: 'coupon-modal-888',\n};\n</script>\n\n<style>\n.container {\n  color: #f30;\n}\n</style>\n"]}, media: undefined });
+      inject("data-v-f2749b78_0", { source: "\n.container {\n  color: #f30;\n}\n", map: {"version":3,"sources":["C:\\Users\\zhuoyan\\Desktop\\mymymy\\remote-component\\rollup\\commponents\\test.vue"],"names":[],"mappings":";AAeA;EACA,WAAA;AACA","file":"test.vue","sourcesContent":["<template>\n  <div class=\"container\">\n    <p>测试远程组件11111111111</p>\n    <p>测试远程组件11111111111</p>\n    <p>测试远程组件11111111111</p>\n  </div>\n</template>\n\n<script>\nexport default {\n  name: 'coupon-modal-888',\n};\n</script>\n\n<style>\n.container {\n  color: #f30;\n}\n</style>\n"]}, media: undefined });
 
     };
     /* scoped */
